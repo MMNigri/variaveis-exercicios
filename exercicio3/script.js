@@ -10,6 +10,23 @@ let salario = Number(prompt("Qual seu salario atual?"))
 let comissao = confirm("Recebe comissão? Se sim, aperte em confirme, caso não, clique em cancel")
 let adm = Number(prompt("Informe o ano de admissão"))
 
+console.log(typeof nome)
+console.log(typeof nascimento)
+console.log(typeof endereco)
+console.log(typeof cpf)
+console.log(typeof esco)
+console.log(typeof cnh)
+console.log(typeof filhos)
+console.log(typeof cargo)
+console.log(typeof salario)
+console.log(typeof comissao)
+console.log(typeof adm)
+
+
+
+
+
+
 console.log("Nome do candidato:", nome)
 console.log("Data de nascimento:", nascimento)
 console.log("Endereço:", endereco )
